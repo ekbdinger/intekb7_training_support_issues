@@ -2,6 +2,7 @@ name = Training Support Issues
 description = view, content type for training support issues
 core = 7.x
 package = Training
+php = 5.2.4
 version = 7.x-1.0
 project = training_support_issues
 dependencies[] = features
