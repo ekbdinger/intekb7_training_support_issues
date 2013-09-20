@@ -27,7 +27,7 @@ function training_support_issues_views_api() {
 function training_support_issues_node_info() {
   $items = array(
     'train_supp_issue' => array(
-      'name' => t('train_supp_issue'),
+      'name' => t('Training Support Issue'),
       'base' => 'node_content',
       'description' => '',
       'has_title' => '1',
